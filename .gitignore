@@ -1,1 +1,6 @@
+# Arquivos do sistema
+.DS_Store
 
+# IDEs
+.vscode/
+.idea/
